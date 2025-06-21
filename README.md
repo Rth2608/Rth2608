@@ -14,7 +14,7 @@
 </p>
 
 <!-- CI/CD STACK -->
-<img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=circleci&logoColor=white" width="100%" />
+<img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=circleci&logoColor=white" width="60%" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
