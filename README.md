@@ -15,6 +15,18 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Backend-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-2C5E50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-FF3F3F?style=flat-square&logo=altiumdesigner&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Psycopg2-336791?style=flat-square"/>
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=circleci&logoColor=white" width="300"/>
 </p>
 
