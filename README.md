@@ -11,4 +11,5 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-FF3F3F?style=flat-square&logo=altiumdesigner&logoColor=white"/>
   <img src="https://img.shields.io/badge/Psycopg2-2C5E50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
