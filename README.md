@@ -25,6 +25,18 @@
   <img src="https://img.shields.io/badge/Psycopg2-336791?style=flat-square"/>
 </p>
 
+<!-- Data Analysis 타이틀 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=for-the-badge&logo=python&logoColor=white" width="300"/>
+</p>
+
+<!-- 관련 라이브러리 뱃지 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=circleci&logoColor=white" width="300"/>
