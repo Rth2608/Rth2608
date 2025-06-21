@@ -4,8 +4,11 @@
   <img src="https://img.shields.io/badge/Tech%20Stack-blue?style=for-the-badge&logo=appveyor" alt="tech-stack" width="100%"/>
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-FF3F3F?style=flat-square&logo=altiumdesigner&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Psycopg2-2C5E50?style=flat-square"/>
 </p>
