@@ -76,9 +76,8 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
-<!-- Else 타이틀 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Else-9E9E9E?style=for-the-badge&logo=code&logoColor=white" width="300"/>
+  <img src="https://img.shields.io/badge/Game%20Development%20Project-607D8B?style=for-the-badge&logo=unity&logoColor=white" width="400"/>
 </p>
 
 <!-- 기타 기술 뱃지 -->
