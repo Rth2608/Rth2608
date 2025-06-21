@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Rth2608)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-blue?style=for-the-badge&logo=appveyor" alt="tech-stack" width="400"/>
+  <img src="https://img.shields.io/badge/Tech%20Stack-blue?style=for-the-badge&logo=appveyor" alt="tech-stack" width="100%"/>
 </p>
 
 
