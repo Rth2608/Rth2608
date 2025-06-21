@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=2196F3&height=300&section=header&text=Rth2608" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=2ecc71&height=300&section=header&text=Rth2608" width="100%" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20Stack-1B263B?style=for-the-badge&logo=appveyor&logoColor=white" alt="tech-stack" width="600"/>
