@@ -75,3 +75,15 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
+
+<!-- Else 타이틀 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Else-9E9E9E?style=for-the-badge&logo=code&logoColor=white" width="300"/>
+</p>
+
+<!-- 기타 기술 뱃지 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+</p>
+
