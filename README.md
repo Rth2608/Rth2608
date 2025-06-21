@@ -4,16 +4,6 @@
   <img src="https://img.shields.io/badge/Tech%20Stack-blue?style=for-the-badge&logo=appveyor" alt="tech-stack" width="600"/>
 </p>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-FF3F3F?style=flat-square&logo=altiumdesigner&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Psycopg2-2C5E50?style=flat-square"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" width="300"/>
 </p>
@@ -24,6 +14,17 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-FF3F3F?style=flat-square&logo=altiumdesigner&logoColor=white"/>
   <img src="https://img.shields.io/badge/Psycopg2-336791?style=flat-square"/>
 </p>
+
+<!-- Database 타이틀 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="300"/>
+</p>
+
+<!-- PostgreSQL 뱃지 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
 
 <!-- Data Analysis 타이틀 -->
 <p align="center">
