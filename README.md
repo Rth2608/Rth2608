@@ -51,3 +51,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
+
+<!-- Studying 타이틀 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Studying-607D8B?style=for-the-badge&logo=bookstack&logoColor=white" width="300"/>
+</p>
+
+<!-- 현재 학습 중인 기술 뱃지 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenPyXL-0277BD?style=flat-square"/>
+</p>
+
