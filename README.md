@@ -11,5 +11,15 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-FF3F3F?style=flat-square&logo=altiumdesigner&logoColor=white"/>
   <img src="https://img.shields.io/badge/Psycopg2-2C5E50?style=flat-square"/>
+</p>
+
+<!-- CI/CD STACK -->
+<img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=circleci&logoColor=white" width="100%" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
