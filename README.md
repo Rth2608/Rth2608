@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Rth2608" width="100%" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-blue?style=for-the-badge&logo=appveyor" alt="tech-stack" width="100%"/>
+  <img src="https://img.shields.io/badge/Tech%20Stack-blue?style=for-the-badge&logo=appveyor" alt="tech-stack" width="600"/>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
